@@ -1,4 +1,4 @@
-module github.com/ClownDUmpling/GoFinal
+module github.com/ClownDUmpling/TODO_List
 
 go 1.23.4
 

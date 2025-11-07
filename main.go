@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/ClownDUmpling/GoFinal/pkg/db"
-	"github.com/ClownDUmpling/GoFinal/pkg/server"
+	"github.com/ClownDUmpling/TODO_List/pkg/db"
+	"github.com/ClownDUmpling/TODO_List/pkg/server"
 )
 
 func main() {
