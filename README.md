@@ -34,7 +34,7 @@ SQlite3
 
 1. Клонируйте репозиторий:  
 `git clone <url-репозитория>`
-`cd GoFinal`
+`cd TODO_List`
 2. Установите зависимости:  
 `go mod download`
 3. Запустите сервер:  
